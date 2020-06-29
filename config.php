@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://localhost:8888/reservation';
+    const BASE_URL      = 'http://10.16.128.97/';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
@@ -41,7 +41,7 @@ class Config {
     const DB_HOST       = 'localhost';
     const DB_NAME       = 'reservation';
     const DB_USERNAME   = 'root';
-    const DB_PASSWORD   = 'root';
+    const DB_PASSWORD   = 'Um6p@S90r7';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
