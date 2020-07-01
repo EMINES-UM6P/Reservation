@@ -79,6 +79,6 @@ translation process read the [get involved](https://github.com/alextselegidis/ea
 page for additional information.
 
 ### Missions
-1 - Add auth using LDAP
-2 - Redirect users after authentification to select appointement
-3 - Show autoaticlly the email, first name and last name on the filds in the third step 
+* Add auth using LDAP
+* Redirect users after authentification to select appointement
+* Show autoaticlly the email, first name and last name on the filds in the third step 
