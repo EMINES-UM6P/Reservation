@@ -77,3 +77,8 @@ bug reports.
 As of version 1.0 Easy!Appointments supports translated user interface. If you want to contribute to the
 translation process read the [get involved](https://github.com/alextselegidis/easyappointments/wiki/Get-Involved!)
 page for additional information.
+
+### Missions
+1 - Add auth using LDAP
+2 - Redirect users after authentification to select appointement
+3 - Show autoaticlly the email, first name and last name on the filds in the third step 
